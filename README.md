@@ -1,2 +1,2 @@
-# aula_javascript
-introdução ao JavaScript
+# Aulinha-Js
+Aulinha Js
